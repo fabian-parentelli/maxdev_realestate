@@ -7,9 +7,9 @@ const Collection = () => {
 
             <div className='teamTitle'>
                 <p>Inmobiliaria Fantasia</p>
-                <BoxUnderToTop>
+                <BoxAnLeft>
                     <h2>Nuestros Productos</h2>
-                </BoxUnderToTop>
+                </BoxAnLeft>
                 <p>Somos una grupo de personas enfocados en encontrar tus sueños</p>
             </div>
 
